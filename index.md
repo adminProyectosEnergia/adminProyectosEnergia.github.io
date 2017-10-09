@@ -1,34 +1,54 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/adminProyectosEnergia/adminProyectosEnergia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Mauricio and I'm an electrical engineer that loves **coding**, **data science**, and **sustainable energy**. This is my personal repository where you can find several code examples. I hope my work can help you to find some answers to your problems. I have organized the code in the Following categories:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Statistics
+* Data Mining
+* Data Visualization
+* Energy Modeling
 
-### Markdown
+Contact me if you have any suggeston or if you need some help with your own projects and please contribute to improve these examples.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+You can find more about my work in my personal site: 
+
+[Mauricio Hernandez](http://mauricioh2.com) [http://mauricioh2.com](http://mauricioh2.com)
+
+# Data Visualization
+Some examples that use code from highchars, bokeh, ggplot, seaborn, etc
+
+## Bokeh 
+[Stacked Area chart with Bokeh](https://github.com/adminProyectosEnergia/highchart-barchart-csv/)
+
+Stacked Area using Bokeh and a CSV File
+
+
+## High Chart 
+
+[Highchart barchart Using CSV File](https://github.com/adminProyectosEnergia/highchart-barchart-csv/)
+
+Simple Bar Chart using HighCharts and a CSV File
 
 ```markdown
-Syntax highlighted code block
+```
+For more details see .
 
-# Header 1
-## Header 2
-### Header 3
+# Data Mining
+```markdown
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+
+
+
+
+
+
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adminProyectosEnergia/adminProyectosEnergia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
