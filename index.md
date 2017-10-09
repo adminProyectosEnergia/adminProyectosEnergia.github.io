@@ -15,26 +15,47 @@ You can find more about my work in my personal site:
 
 [Mauricio Hernandez](http://mauricioh2.com) [http://mauricioh2.com](http://mauricioh2.com)
 
+
+# Statistics
+
+
+# Data Mining
+
+
+
 # Data Visualization
 Some examples that use code from highchars, bokeh, ggplot, seaborn, etc
 
 ## Bokeh 
 [Stacked Area chart with Bokeh](https://github.com/adminProyectosEnergia/highchart-barchart-csv/)
 
-Stacked Area using Bokeh and a CSV File
+Stacked Area using Bokeh with a CSV File
 
 
-## High Chart 
+## Highchart 
+
+#### Bar Chart using HighCharts with a CSV File
 
 [Highchart barchart Using CSV File](https://github.com/adminProyectosEnergia/highchart-barchart-csv/)
 
-Simple Bar Chart using HighCharts and a CSV File
+[Visualize code execution :arrow_forward:](https://adminproyectosenergia.github.io/highchart-barchart-csv/)
+
+
+
+#### Time Series Chart using HighCharts with a CSV File
+
+[Time Series Chart Using CSV File](https://github.com/adminProyectosEnergia/highchart-timeseries-csv/)
+
+[Visualize code execution :arrow_forward:](https://adminproyectosenergia.github.io/highchart-timeseries-csv/)
+
 
 ```markdown
 ```
 For more details see .
 
-# Data Mining
+
+# Energy Modeling
+
 ```markdown
 
 
